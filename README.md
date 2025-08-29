@@ -1,7 +1,7 @@
-##  ReadMe for Assignment 1 Question 2
+#  ReadMe for Assignment 1 Question 2
 
 
-# This repository covers steps 2 and 3 of Module 1 Assignment. Here is the dsecription:
+## This repository covers steps 2 and 3 of Module 1 Assignment. Here is the description:
 
 Now, it's over to you (8 pts).  In part 2 you will create the components of a GitHub repository, create branches, and create and accept your own pull requests: https://classroom.github.com/a/sGhzPFRuLinks 
 
